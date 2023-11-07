@@ -4,6 +4,7 @@
 <p align="center"> 
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rilaxik&theme=dracula&hide_border=false" alt="stats"> <br />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rilaxik&theme=dracula&layout=compact&langs_count=8" alt="languages">
+  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=rilaxik&theme=dracula" alt="time per lang">
 </p>
 
 
@@ -83,6 +84,7 @@
 
 
 [BADGES SOURCE]: # (https://shields.io/badges)
+[STATS GENERATOR]: # (https://github.com/anuraghazra/github-readme-stats)
 [ICONS SOURCE]: # (https://simpleicons.org/)
 [ICONS GENERATOR]: # (https://gprm.itsvg.in/)
 [SNAKE]: # (https://github.com/Platane/snk)
