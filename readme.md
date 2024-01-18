@@ -2,7 +2,7 @@
 
 ## 📊 Profile stats: 
 <p align="center"> 
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rilaxik&theme=dracula&hide_border=false" alt="stats"> <br />
+<!--   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rilaxik&theme=dracula&hide_border=false" alt="stats"> <br /> -->
   <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=rilaxik&theme=dracula" alt="time per lang"> <br />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rilaxik&theme=dracula&layout=compact&langs_count=8" alt="languages">
 </p>
@@ -69,8 +69,8 @@
 </p>
 
 
-## ⛩️ Portfolio Page
-<p align="center"><a href="https://rilaxik.github.io/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=rilaxik&repo=rilaxik.github.io&theme=dracula" alt="portfolio" /> </a></p>
+<!-- ## ⛩️ Portfolio Page -->
+<!-- <p align="center"><a href="https://rilaxik.github.io/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=rilaxik&repo=rilaxik.github.io&theme=dracula" alt="portfolio" /> </a></p> -->
 
 ## 🔗 Catch me here
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danylo-halyk-378ab7263)
