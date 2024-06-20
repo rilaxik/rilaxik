@@ -73,7 +73,7 @@
 <!-- <p align="center"><a href="https://rilaxik.github.io/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=rilaxik&repo=rilaxik.github.io&theme=dracula" alt="portfolio" /> </a></p> -->
 
 ## 🔗 Catch me here
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danylo-halyk-378ab7263)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-halyk/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/danyarilaxik)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rilaxik)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rilaxik)
