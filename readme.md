@@ -3,7 +3,7 @@
 ## 📊 Profile stats: 
 <p align="center"> 
 <!--   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rilaxik&theme=dracula&hide_border=false" alt="stats"> <br /> -->
-  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=rilaxik&theme=dracula" alt="time per lang"> <br />
+<!--   <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=rilaxik&theme=dracula" alt="time per lang"> <br /> -->
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rilaxik&theme=dracula&layout=compact&langs_count=8" alt="languages">
 </p>
 
